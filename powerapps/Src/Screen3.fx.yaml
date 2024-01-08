@@ -1,0 +1,7 @@
+Screen3 As screen:
+
+    Rectangle3 As rectangle:
+        Height: =51
+        Width: =1366
+        ZIndex: =1
+
