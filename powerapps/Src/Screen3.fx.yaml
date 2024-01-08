@@ -25,8 +25,8 @@ Screen3 As screen:
 
     Button4 As button:
         Text: ="Botão"
-        X: =274
-        Y: =541
+        X: =115
+        Y: =107
         ZIndex: =5
 
     Button5 As button:
