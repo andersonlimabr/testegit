@@ -3,28 +3,28 @@ Screen2 As screen:
     Button3 As button:
         OnSelect: =Set(testeaaa,"aaaa")
         Text: ="Botão 1"
-        X: =925
-        Y: =35
+        X: =1175
+        Y: =25
         ZIndex: =2
 
     Button3_1 As button:
         OnSelect: =Set(abc,"Abc")
         Text: ="Botão"
-        X: =925
-        Y: =122
+        X: =1175
+        Y: =112
         ZIndex: =3
 
     Button3_2 As button:
         OnSelect: =Notify("Teste")
         Text: ="Botão 3"
-        X: =925
-        Y: =206
+        X: =1175
+        Y: =196
         ZIndex: =4
 
     Button3_3 As button:
         Text: ="Botão"
-        X: =925
-        Y: =303
+        X: =1175
+        Y: =293
         ZIndex: =5
 
     "Gallery2 As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver5.0'":
