@@ -1,0 +1,26 @@
+Screen2 As screen:
+
+    Button3 As button:
+        Text: ="Botão"
+        X: =925
+        Y: =35
+        ZIndex: =2
+
+    Button3_1 As button:
+        Text: ="Botão"
+        X: =925
+        Y: =122
+        ZIndex: =3
+
+    Button3_2 As button:
+        Text: ="Botão"
+        X: =925
+        Y: =206
+        ZIndex: =4
+
+    Button3_3 As button:
+        Text: ="Botão"
+        X: =925
+        Y: =303
+        ZIndex: =5
+
