@@ -10,8 +10,8 @@ Screen2 As screen:
     Button3_1 As button:
         OnSelect: =Set(abc,"Abc")
         Text: ="Botão"
-        X: =256
-        Y: =584
+        X: =546
+        Y: =287
         ZIndex: =3
 
     Button3_2 As button:
@@ -37,8 +37,7 @@ Screen2 As screen:
         TemplatePadding: =0
         TemplateSize: =104
         Width: =519
-        X: =584
-        Y: =48
+        X: =847
         ZIndex: =6
 
         Image2 As image:
