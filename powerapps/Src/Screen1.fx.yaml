@@ -6,3 +6,10 @@ Screen1 As screen:
         Y: =620
         ZIndex: =1
 
+    Button2 As button:
+        Fill: =RGBA(255, 0, 0, 1)
+        Text: ="Botão"
+        X: =795
+        Y: =335
+        ZIndex: =2
+
