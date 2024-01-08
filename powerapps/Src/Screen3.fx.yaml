@@ -5,3 +5,33 @@ Screen3 As screen:
         Width: =1366
         ZIndex: =1
 
+    Label1 As label:
+        Text: ="Texto"
+        X: =573
+        Y: =361
+        ZIndex: =2
+
+    Label2 As label:
+        Text: ="Texto"
+        X: =726
+        Y: =642
+        ZIndex: =3
+
+    Label3 As label:
+        Text: ="Texto"
+        X: =1086
+        Y: =203
+        ZIndex: =4
+
+    Button4 As button:
+        Text: ="Botão"
+        X: =274
+        Y: =541
+        ZIndex: =5
+
+    Button5 As button:
+        Text: ="Botão"
+        X: =1076
+        Y: =541
+        ZIndex: =6
+
