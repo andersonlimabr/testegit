@@ -192,35 +192,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Screen3"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Screen3",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "module": "Screen3",
-                "type": "Screen3"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Low"
-          },
-          "ruleId": "acc-ReadableScreenNameNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "App.teste"
                 }
               ],
@@ -251,17 +222,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.testeaaa"
+                  "fullyQualifiedName": "App.abc"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.testeaaa",
+                  "fullyQualifiedName": "App.abc",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "testeaaa",
+                "member": "abc",
                 "module": "App",
                 "type": "App"
               }
@@ -281,17 +252,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.abc"
+                  "fullyQualifiedName": "App.var1"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.abc",
+                  "fullyQualifiedName": "App.var1",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "abc",
+                "member": "var1",
                 "module": "App",
                 "type": "App"
               }
