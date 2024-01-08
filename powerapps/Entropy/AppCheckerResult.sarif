@@ -222,17 +222,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.abc"
+                  "fullyQualifiedName": "App.testeaaa"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.abc",
+                  "fullyQualifiedName": "App.testeaaa",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "abc",
+                "member": "testeaaa",
                 "module": "App",
                 "type": "App"
               }
@@ -252,17 +252,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "App.var1"
+                  "fullyQualifiedName": "App.abc"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "App.var1",
+                  "fullyQualifiedName": "App.abc",
                   "relativeAddress": 0
                 }
               },
               "properties": {
-                "member": "var1",
+                "member": "abc",
                 "module": "App",
                 "type": "App"
               }
