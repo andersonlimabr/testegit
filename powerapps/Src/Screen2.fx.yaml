@@ -10,8 +10,8 @@ Screen2 As screen:
     Button3_1 As button:
         OnSelect: =Set(abc,"Abc")
         Text: ="Botão"
-        X: =546
-        Y: =287
+        X: =112
+        Y: =161
         ZIndex: =3
 
     Button3_2 As button:
