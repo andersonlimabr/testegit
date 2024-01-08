@@ -1,1 +1,36 @@
-{}
+{
+  "9e1aa112-9de3-4dfa-855f-594d3672400c": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1664/1.0.1664.3477/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://prosperi.sharepoint.com/sites/pwa_anderson_almeida": {
+        "dataSources": {
+          "Areas": {
+            "tableName": "81973b47-bd88-4c86-a839-f192ded361a5"
+          },
+          "Autores": {
+            "tableName": "06f48307-df79-471f-8256-1090996009e6"
+          },
+          "Categorias": {
+            "tableName": "ec6a3a52-6ff2-4e6f-a9d9-9d97db0cd4e2"
+          },
+          "Chamados": {
+            "tableName": "c6d0ca7d-c563-4350-8fa5-a8b75eeed8c9"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Areas",
+      "Autores",
+      "Categorias",
+      "Chamados"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "9e1aa112-9de3-4dfa-855f-594d3672400c"
+  }
+}
