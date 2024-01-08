@@ -22,7 +22,7 @@ Screen2 As screen:
         ZIndex: =4
 
     Button3_3 As button:
-        Text: ="Botão"
+        Text: ="Botão 4"
         X: =112
         Y: =344
         ZIndex: =5
