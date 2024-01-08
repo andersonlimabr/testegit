@@ -111,11 +111,11 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "74c6c4f3-9989-4f8a-ab85-e0c847f58af6",
-    "Id": "74c6c4f3-9989-4f8a-ab85-e0c847f58af6",
+    "Id": "aea7de4f-7e0b-4df4-a8f4-ea2cbe562583",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
     "ManualOfflineProfileId": "",
-    "Name": "AplicativoTesteGIT",
+    "Name": "AplicativoTesteGIT.msapp",
     "OriginatingVersion": "1.336",
     "ParserErrorCount": 0,
     "ShowStatusBar": false
