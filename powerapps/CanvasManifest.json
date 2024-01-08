@@ -95,7 +95,7 @@
       "useguiddatatypes": true,
       "usenonblockingonstartrule": true,
       "webbarcodescanner": false,
-      "zeroalltabindexes": true
+      "zeroalltabindexes": false
     },
     "Author": "",
     "BindingErrorCount": 0,
@@ -114,7 +114,7 @@
     "Id": "74c6c4f3-9989-4f8a-ab85-e0c847f58af6",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "AplicativoTesteGIT",
     "OriginatingVersion": "1.336",
     "ParserErrorCount": 0,
