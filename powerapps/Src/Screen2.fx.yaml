@@ -1,7 +1,8 @@
 Screen2 As screen:
 
     Button3 As button:
-        Text: ="Botão"
+        OnSelect: =Set(var1,"BBBBBBBBBBB")
+        Text: ="Botão 1"
         X: =925
         Y: =35
         ZIndex: =2
