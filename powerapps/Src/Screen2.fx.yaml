@@ -22,9 +22,9 @@ Screen2 As screen:
         ZIndex: =4
 
     Button3_3 As button:
-        Text: ="Botão"
-        X: =1175
-        Y: =293
+        Text: ="Botão 4"
+        X: =850
+        Y: =555
         ZIndex: =5
 
     "Gallery2 As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver5.0'":
